@@ -135,3 +135,31 @@ footer{
     float: left;
     padding: 13px 20px;
 }
+.Web-Desc{
+    text-align: center;
+}
+.title{
+    text-align: center;
+    align-items: center;
+}
+.creators{
+    display: flex;
+    justify-content: center;
+}
+.creator{
+    align-items: center;
+    justify-content: center;
+    padding:30px ;
+}
+.pic{
+    justify-content: center;
+    align-items: center;
+}
+.desc{
+    text-align: center;
+    align-items: center;
+}
+.member{
+    width: 200px;
+    height: 250px;
+}
